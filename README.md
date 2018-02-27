@@ -11,11 +11,7 @@
 
 ## How to set up Firabase Configuration?
 1. First create acount - [firebase.google.com](http://firebase.google.com)
-2. Go to folder helpers
-``` bash
-src/helpers/
-```
-
+2. Go to folder src/helpers/
 ``` bash
 src
 |
