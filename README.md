@@ -10,10 +10,13 @@
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
 
 ## Firabase
+``` bash
+src
 |
-|
-|
-
+|-helpers
+  |
+  firebaseConfig.js
+```
 
 
 ## Build Setup
