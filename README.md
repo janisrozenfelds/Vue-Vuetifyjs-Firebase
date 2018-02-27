@@ -6,7 +6,8 @@
 
 ## The App
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
-(simple app with Firabase Sigin, Signup page
+
+(simple app with Firabase Sigin, Signup page)
 
 ## How to set up Firabase Configuration?
 1. First create acount - [firebase.google.com](http://firebase.google.com)
