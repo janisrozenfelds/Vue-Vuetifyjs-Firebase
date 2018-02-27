@@ -10,7 +10,7 @@
 (simple app with Sigin, Signup page and Dashboard page)
 
 ## How to set up Firabase Configuration?
-1. First create acount - [firebase.google.com](http://firebase.google.com)
+1. First create account - [firebase.google.com](http://firebase.google.com)
 2. Go to folder src/helpers/
 ``` bash
 src
