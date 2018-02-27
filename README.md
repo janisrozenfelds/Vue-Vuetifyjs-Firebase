@@ -1,6 +1,13 @@
-# vue-vuetifyjs-firebase
+# Vue + Vuetifyjs + Firebase project
 
 > A Vue.js project
+
+## About
+![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
+
+
+
+
 
 ## Build Setup
 
