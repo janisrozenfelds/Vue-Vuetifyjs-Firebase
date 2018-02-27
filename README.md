@@ -15,8 +15,6 @@
 ``` bash
 src/helpers/
 ```
-3. and edit file "firebaseConfig.js"
-
 
 ``` bash
 src
@@ -26,9 +24,17 @@ src
   firebaseConfig.js
 ```
 
+3. and edit file "firebaseConfig.js"
+
 ``` bash
-
-
+// firebase configurations
+export const firebaseConfig = {
+  apiKey: 'API_KEY',
+  authDomain: 'AUTH_DOMAIN',
+  databaseURL: 'DATA_BASE_URL',
+  projectId: 'PROJECT_ID',
+  storageBucket: 'STORAGE_BUCKET'
+}
 ```
 
 
