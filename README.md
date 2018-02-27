@@ -5,7 +5,9 @@
 ## About
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
 
-![App](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif | width=50)
+
+
+![test image size](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif){:height="700px" width="400px"}
 
 
 
