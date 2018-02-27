@@ -1,6 +1,6 @@
 
 
-<img alt="App Logo" src="https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg" width="400" height="790">
+<img alt="App Logo" src="https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg" width="400" height="auto">
 
 # Vue + Vuetifyjs + Firebase project
 
