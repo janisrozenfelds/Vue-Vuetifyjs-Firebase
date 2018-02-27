@@ -1,4 +1,4 @@
-![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
+![Alt Text](Vue-Vuetifyjs-Firebase/static/app_logo_icon.svg)
 
 # Vue + Vuetifyjs + Firebase project
 
