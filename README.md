@@ -1,4 +1,6 @@
-![Alt Text](https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo_icon.svg)
+![Alt Text](https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg)
+
+![test image size](https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg){:height="700px" width="400px"}
 
 # Vue + Vuetifyjs + Firebase project
 
