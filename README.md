@@ -2,12 +2,15 @@
 
 <img alt="App Logo" src="https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg" width="200" height="auto">
 
+<p align="center"><img width="100" src="https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg" alt="App logo"></a></p>
+
 # Vue + Vuetifyjs + Firebase project
 
 > A Vue.js project
 
-## View
+## The App
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
+(simple app with Firabase Sigin, Signup page
 
 ## How to set up Firabase Configuration?
 1. First create acount - [firebase.google.com](http://firebase.google.com)
