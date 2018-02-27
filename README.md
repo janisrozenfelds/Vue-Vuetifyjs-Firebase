@@ -10,11 +10,12 @@
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
 
 ## How to set up Firabase Configuration?
-Go to
+1. First create acount - [firebase.google.com](http://firebase.google.com)
+2. Go to
 ``` bash
 src/helpers/
 ```
-and edit file "firebaseConfig.js"
+3. and edit file "firebaseConfig.js"
 
 
 ``` bash
@@ -23,6 +24,11 @@ src
 |-helpers
   |
   firebaseConfig.js
+```
+
+``` bash
+
+
 ```
 
 
