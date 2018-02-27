@@ -2,7 +2,7 @@
 
 # Vue + Vuetifyjs + Firebase project
 
-> A Vue.js project
+> A Vue.js project using Firebase + vuetifyjs
 
 ## The App
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
