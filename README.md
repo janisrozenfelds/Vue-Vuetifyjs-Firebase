@@ -58,5 +58,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 ## Get to know me
-I am designer and I love front-end web development alos photography.
+I am Janis, designer and I love front-end web development alos photography.
+
 [Twitter](https://twitter.com/roziits) , [Unsplash](https://unsplash.com/@janisrozenfelds)
