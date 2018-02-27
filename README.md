@@ -1,3 +1,5 @@
+![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
+
 # Vue + Vuetifyjs + Firebase project
 
 > A Vue.js project
@@ -5,9 +7,6 @@
 ## About
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
 
-
-
-![test image size](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif){:height="700px" width="400px"}
 
 
 
