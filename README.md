@@ -21,6 +21,7 @@ src
 ```
 
 3. and edit file "firebaseConfig.js"
+Edit this fields API_KEY, AUTH_DOMAIN, DATA_BASE_URL, PROJECT_ID, STORAGE_BUCKET with your firebase Configuration
 
 ``` bash
 // firebase configurations
