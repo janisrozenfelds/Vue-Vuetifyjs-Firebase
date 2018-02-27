@@ -9,7 +9,11 @@
 ## View
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
 
-## Firabase
+## How to set up Firabase Configuration?
+Go to src/helpers/
+and edit file "firebaseConfig.js"
+
+
 ``` bash
 src
 |
