@@ -4,6 +4,7 @@
 
 > A Vue.js project
 
+<h1 align="center">The App</h1>
 ## The App
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
 
