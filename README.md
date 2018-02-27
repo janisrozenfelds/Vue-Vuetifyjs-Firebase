@@ -1,8 +1,4 @@
-
-
-<img alt="App Logo" src="https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg" width="200" height="auto">
-
-<p align="center"><img width="100" src="https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg" alt="App logo"></a></p>
+<p align="center"><img width="200" src="https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg" alt="App logo"></a></p>
 
 # Vue + Vuetifyjs + Firebase project
 
