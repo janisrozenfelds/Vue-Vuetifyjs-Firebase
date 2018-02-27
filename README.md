@@ -10,7 +10,10 @@
 ![Alt Text](https://thumbs.gfycat.com/VacantMealyHypacrosaurus-size_restricted.gif)
 
 ## How to set up Firabase Configuration?
-Go to src/helpers/
+Go to
+``` bash
+src/helpers/
+```
 and edit file "firebaseConfig.js"
 
 
