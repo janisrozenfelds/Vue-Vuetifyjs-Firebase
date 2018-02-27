@@ -2,6 +2,8 @@
 
 ![test image size](https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg){:height="700px" width="400px"}
 
+<img src="https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo.svg" width="400" height="790">
+
 # Vue + Vuetifyjs + Firebase project
 
 > A Vue.js project
