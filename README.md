@@ -1,4 +1,4 @@
-![Alt Text](Vue-Vuetifyjs-Firebase/static/app_logo_icon.svg)
+![Alt Text](https://github.com/janisrozenfelds/Vue-Vuetifyjs-Firebase/blob/master/static/app_logo_icon.svg)
 
 # Vue + Vuetifyjs + Firebase project
 
